@@ -1,0 +1,12 @@
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\UnityEditor.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\UnityEngine.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\nunit.framework.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\hordedwarf\Documents\UnityProject\Road Runner\obj\Debug\Assembly-CSharp-firstpass.pdb

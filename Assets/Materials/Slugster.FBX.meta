@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7844925faf6b9c54197c670931d1c0b6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: Camera02
+    100006: Camera02.Target
+    100008: drool1_01
+    100010: drool1_02
+    100012: drool2_01
+    100014: drool2_02
+    100016: IK Chain01
+    100018: JAW
+    100020: JawBASE
+    100022: Jawtip
+    100024: LHorn1
+    100026: Lhorn2
+    100028: Mesh
+    100030: Omni01
+    100032: Omni02
+    100034: Omni03
+    100036: Rhorn1
+    100038: Rhorn2
+    100040: SLUG
+    100042: SLUG Footsteps
+    100044: SLUG Head
+    100046: SLUG HeadNub
+    100048: SLUG L Calf
+    100050: SLUG L Clavicle
+    100052: SLUG L Finger0
+    100054: SLUG L Finger0Nub
+    100056: SLUG L Finger1
+    100058: SLUG L Finger1Nub
+    100060: SLUG L Finger2
+    100062: SLUG L Finger2Nub
+    100064: SLUG L Foot
+    100066: SLUG L Forearm
+    100068: SLUG L Hand
+    100070: SLUG L Thigh
+    100072: SLUG L Toe0
+    100074: SLUG L Toe0Nub
+    100076: SLUG L UpperArm
+    100078: SLUG Neck
+    100080: SLUG Pelvis
+    100082: SLUG R Calf
+    100084: SLUG R Clavicle
+    100086: SLUG R Finger0
+    100088: SLUG R Finger0Nub
+    100090: SLUG R Finger1
+    100092: SLUG R Finger1Nub
+    100094: SLUG R Finger2
+    100096: SLUG R Finger2Nub
+    100098: SLUG R Foot
+    100100: SLUG R Forearm
+    100102: SLUG R Hand
+    100104: SLUG R Thigh
+    100106: SLUG R Toe0
+    100108: SLUG R Toe0Nub
+    100110: SLUG R UpperArm
+    100112: SLUG Spine
+    100114: SLUG Spine1
+    100116: SLUG Spine2
+    100118: SLUG Spine3
+    100120: SLUG Tail
+    100122: SLUG Tail1
+    100124: SLUG Tail2
+    100126: SLUG Tail3
+    100128: SLUG Tail4
+    100130: SLUG Tail5
+    100132: SLUG TailNub
+    100134: //RootNode
+    100136: ZZCRAPbone
+    100138: ZZCRAPbone2
+    100140: ZZCRAPbone3
+    100142: ZZCRAPbone4
+    400000: Camera01
+    400002: Camera01.Target
+    400004: Camera02
+    400006: Camera02.Target
+    400008: drool1_01
+    400010: drool1_02
+    400012: drool2_01
+    400014: drool2_02
+    400016: IK Chain01
+    400018: JAW
+    400020: JawBASE
+    400022: Jawtip
+    400024: LHorn1
+    400026: Lhorn2
+    400028: Mesh
+    400030: Omni01
+    400032: Omni02
+    400034: Omni03
+    400036: Rhorn1
+    400038: Rhorn2
+    400040: SLUG
+    400042: SLUG Footsteps
+    400044: SLUG Head
+    400046: SLUG HeadNub
+    400048: SLUG L Calf
+    400050: SLUG L Clavicle
+    400052: SLUG L Finger0
+    400054: SLUG L Finger0Nub
+    400056: SLUG L Finger1
+    400058: SLUG L Finger1Nub
+    400060: SLUG L Finger2
+    400062: SLUG L Finger2Nub
+    400064: SLUG L Foot
+    400066: SLUG L Forearm
+    400068: SLUG L Hand
+    400070: SLUG L Thigh
+    400072: SLUG L Toe0
+    400074: SLUG L Toe0Nub
+    400076: SLUG L UpperArm
+    400078: SLUG Neck
+    400080: SLUG Pelvis
+    400082: SLUG R Calf
+    400084: SLUG R Clavicle
+    400086: SLUG R Finger0
+    400088: SLUG R Finger0Nub
+    400090: SLUG R Finger1
+    400092: SLUG R Finger1Nub
+    400094: SLUG R Finger2
+    400096: SLUG R Finger2Nub
+    400098: SLUG R Foot
+    400100: SLUG R Forearm
+    400102: SLUG R Hand
+    400104: SLUG R Thigh
+    400106: SLUG R Toe0
+    400108: SLUG R Toe0Nub
+    400110: SLUG R UpperArm
+    400112: SLUG Spine
+    400114: SLUG Spine1
+    400116: SLUG Spine2
+    400118: SLUG Spine3
+    400120: SLUG Tail
+    400122: SLUG Tail1
+    400124: SLUG Tail2
+    400126: SLUG Tail3
+    400128: SLUG Tail4
+    400130: SLUG Tail5
+    400132: SLUG TailNub
+    400134: //RootNode
+    400136: ZZCRAPbone
+    400138: ZZCRAPbone2
+    400140: ZZCRAPbone3
+    400142: ZZCRAPbone4
+    4300000: Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 121
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera01
+        weight: 1
+      - path: Camera01.Target
+        weight: 1
+      - path: Camera02
+        weight: 1
+      - path: Camera02.Target
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Omni03
+        weight: 1
+      - path: SLUG
+        weight: 1
+      - path: SLUG/SLUG Footsteps
+        weight: 1
+      - path: SLUG/SLUG Pelvis
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG L Thigh
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG L Thigh/SLUG L Calf
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG L Thigh/SLUG L Calf/SLUG L Foot
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG L Thigh/SLUG L Calf/SLUG L Foot/SLUG
+          L Toe0
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG L Thigh/SLUG L Calf/SLUG L Foot/SLUG
+          L Toe0/SLUG L Toe0Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG R Thigh
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG R Thigh/SLUG R Calf
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG R Thigh/SLUG R Calf/SLUG R Foot
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG R Thigh/SLUG R Calf/SLUG R Foot/SLUG
+          R Toe0
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG R Thigh/SLUG R Calf/SLUG R Foot/SLUG
+          R Toe0/SLUG R Toe0Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/IK Chain01
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/Jawtip
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone/drool1_01
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone/drool1_01/drool1_02
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone/drool1_01/drool1_02/ZZCRAPbone3
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone2/drool2_01
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone2/drool2_01/drool2_02
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/JawBASE/JAW/ZZCRAPbone2/drool2_01/drool2_02/ZZCRAPbone4
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/LHorn1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/LHorn1/Lhorn2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/Rhorn1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/Rhorn1/Rhorn2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG Head/SLUG HeadNub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger0
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger0/SLUG
+          L Finger0Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger1/SLUG
+          L Finger1Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG L Clavicle/SLUG L UpperArm/SLUG L Forearm/SLUG L Hand/SLUG L Finger2/SLUG
+          L Finger2Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger0
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger0/SLUG
+          R Finger0Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger1/SLUG
+          R Finger1Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Spine1/SLUG Spine2/SLUG Spine3/SLUG
+          Neck/SLUG R Clavicle/SLUG R UpperArm/SLUG R Forearm/SLUG R Hand/SLUG R Finger2/SLUG
+          R Finger2Nub
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1/SLUG Tail2
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1/SLUG Tail2/SLUG Tail3
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1/SLUG Tail2/SLUG Tail3/SLUG
+          Tail4
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1/SLUG Tail2/SLUG Tail3/SLUG
+          Tail4/SLUG Tail5
+        weight: 1
+      - path: SLUG/SLUG Pelvis/SLUG Spine/SLUG Tail/SLUG Tail1/SLUG Tail2/SLUG Tail3/SLUG
+          Tail4/SLUG Tail5/SLUG TailNub
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
